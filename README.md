@@ -3,3 +3,5 @@ Random Emoji Generator 🎭  A fun interactive web project built using HTML, CSS
 ## Preview
 
 ![App Screenshot](Before-over.png)
+
+![App Screenshot](After-over.png)
