@@ -7,3 +7,5 @@ Before-Hover on the Emoji
 
 After-Hover on the Emoji
 ![App Screenshot](After-over.png)
+
+![App Screenshot](After-over-2.png)
